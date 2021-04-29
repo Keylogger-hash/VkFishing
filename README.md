@@ -1,7 +1,6 @@
 <h1>Fishing vk</h1>
-<ul>
-  <ol>pip install -r requirements.txt</ol>
-  <ol>python main.py</ol>
-  <ol>All logins and pass writing in login.txt</ol>
-</ul>
+1. pip install -r requirements.txt
+2. python main.py
+3. All logins and pass writing in login.txt
+
 <p>Good job!</p>
